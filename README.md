@@ -2,6 +2,7 @@
 A template for small repository with pipelines
 
 ![GitHub Actions Workflow Status](https://github.com/MagmaWorks/Template-Repo/actions/workflows/on-merge-to-main.yml/badge.svg)
+[![codecov](https://codecov.io/gh/MagmaWorks/Template-Repo/graph/badge.svg)](https://codecov.io/gh/MagmaWorks/Template-Repo)
 
 ## Latest release
 [![Releasestatus](https://github.com/MagmaWorks/Template-Repo/actions/workflows/on-release.yml/badge.svg)](https://github.com/MagmaWorks/Template-Repo/releases)
