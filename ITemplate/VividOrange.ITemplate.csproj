@@ -14,6 +14,7 @@
 
   <PropertyGroup>
     <Title>MagmaWorks Template Interfaces</Title>
+    <Description>Package description</Description>
     <Company>Vivid Orange</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
