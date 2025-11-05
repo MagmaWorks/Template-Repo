@@ -9,16 +9,17 @@
 	<TargetFrameworks>net48;net6.0;net7.0;net8.0</TargetFrameworks>
 	  <LangVersion>8.0</LangVersion>
     <Platforms>AnyCPU</Platforms>
-    <RootNamespace>MagmaWorks.Template</RootNamespace>
+    <RootNamespace>VividOrange.Template</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
     <Title>MagmaWorks Template Interfaces</Title>
-    <Company>Whitby Wood</Company>
+    <Description>Package description</Description>
+    <Company>Vivid Orange</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/MagmaWorks/Taxonomy/</RepositoryUrl>
-    <PackageIcon>MagmaWorks.png</PackageIcon>
+    <RepositoryUrl>https://github.com/vivid-orange/Template/</RepositoryUrl>
+    <PackageIcon>VividOrange.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -26,7 +27,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="OasysUnits" Version="1.2.1" />
+    <PackageReference Include="UnitsNet" Version="5.75.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -46,7 +47,7 @@
       <Pack>True</Pack>
       <PackagePath>\Licenses\</PackagePath>
     </None>
-    <None Include="..\MagmaWorks.png">
+    <None Include="..\VividOrange.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
