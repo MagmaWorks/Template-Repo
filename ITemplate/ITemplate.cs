@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Template
+﻿namespace VividOrange.Template
 {
     public interface ITemplate { }
 }
